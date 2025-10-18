@@ -1,0 +1,5 @@
+{
+  "name": "YouTube Playlist Title Extractor",
+  "description": "A tool to easily extract all video titles from a public YouTube playlist URL. Paste the link, and get a clean, exportable list of titles.",
+  "requestFramePermissions": []
+}
